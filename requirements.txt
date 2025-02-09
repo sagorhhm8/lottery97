@@ -1,0 +1,8 @@
+selenium
+pandas
+numpy
+scikit-learn
+python-telegram-bot
+xgboost
+schedule
+joblib
